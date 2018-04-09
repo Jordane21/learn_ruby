@@ -1,5 +1,11 @@
 
-Petits exercices de Jordane F.
+Exercices de 1 à 4 faits...
+
+Jordane & sa Team 
+
+Alex
+
+   Aude & Arthus
 
 ==========
 Test First Ruby -- RSpec 3 Edition
