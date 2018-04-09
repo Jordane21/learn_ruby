@@ -1,3 +1,7 @@
+
+Petits exercices de Jordane F.
+
+==========
 Test First Ruby -- RSpec 3 Edition
 ==========
 
